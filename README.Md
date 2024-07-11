@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+Blockchain+Developer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Java-stack+Backend+Develop.++++++++++)](https://github.com/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Abhay Singh</h1>
 <!-- <h3 align="center" color=red>A Java Backend Developer </h3> -->
