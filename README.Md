@@ -1,46 +1,46 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+Blockchain+Developer.++++++++++)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm DIWAKAR KASHYAP</h1>
-<!-- <h3 align="center" color=red>A Fullstack Web & Blockchain Developer </h3> -->
+<h1 align="center">Hi 👋, I'm Abhay Singh</h1>
+<!-- <h3 align="center" color=red>A Java Backend Developer </h3> -->
 
 
 <img align="right" width=450 margin="10px" src ="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoLnF-XP3ukT4kJm-qI54u3RqORHi5XimQKLgfi1mZyRFWVxvA1edm0Vl1g0S-gXZEzQB1pVFYzgbEcIB15wt1YNTeu-bkITTs10IMf8tWPylY_rbBquGZev7TLBjxG6xYCzxOwVT5EvqNMe0oNCXQwIxDrwvPFnePLLsGk5rgLn3ctZVj13IiZpnJ/s1200/5927911.gif" />
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=diwakarkashyap&label=Profile%20views&color=0e75b6&style=flat"
-        alt="diwakarkashyap" />
+    <img src="https://komarev.com/ghpvc/?username=abhaysingh&label=Profile%20views&color=0e75b6&style=flat"
+        alt="abhaysingh" />
 </p>
 
 
 
-- 🌱 I’m currently learning **AI/ML**, doing **Open Source** 
-- 💬 Ask me about **JavaScript, Typescript, React js, Next js, Dapp**
+- 🌱 I’m currently learning **Java Backend**, doing **Open Source** 
+- 💬 Ask me about **Core Java, Spring FrameWork, Hibernate,SpringBoot, MySQL,RestFul API**
 - 👨‍💻 My portfolio is available at https://diwakar-portfolio.vercel.app/
-- 📫 How to reach me **didk9675@gmail.com** 
+- 📫 How to reach me **abhaysingh28350@gmail.com** 
 - ⚡Fun fact **love Error**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/@diwakar_766" target="blank"><img align="center"
+    <a href="https://twitter.com/@abhay_766" target="blank"><img align="center"
             src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" alt="@diwakar_766" height="40"
             width="40" /></a>
-    <a href="https://linkedin.com/in/diwakar-kashyap-317a5223b/" target="blank"><img align="center"
+    <a href="https://inkedin.com/in/abhay-singh-82913b1b6/" target="blank"><img align="center"
             src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" /></a>
-    <a href="mailto:diwakarkashyapdev@gmail.com" target="blank"><img align="center"
-            src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Diwakar#6919" height="30"
+    <a href="mailto:abhaysingh28350@gmail.com" target="blank"><img align="center"
+            src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="abhaysingh28350" height="30"
             width="40" /></a>
     <a href="https://t.me/didk9675" target="blank"><img align="center"
-            src="https://cdn-icons-png.flaticon.com/128/3536/3536661.png" alt="Diwakar#6919" height="40"
+            src="https://cdn-icons-png.flaticon.com/128/3536/3536661.png" alt="abhay#6919" height="40"
             width="40" /></a>
 
 </p>
 
 <h3 align="left">Blogs:</h3>
 <p align="left">
-     <a href="https://dev.to/diwakarkashyap" target="blank"><img align="center"
-            src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="@diwakar_766" height="40"
+     <a href="https://dev.to/abhaysingh" target="blank"><img align="center"
+            src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="@abhay_766" height="40"
             width="40" /></a>
-    <a href="https://diwakarkashyap.hashnode.dev/" target="blank"><img align="center"
+    <a href="https://abhaysingh.hashnode.dev/" target="blank"><img align="center"
             src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" height="40" width="40" /></a>
 </p>
 
